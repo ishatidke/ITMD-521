@@ -1,7 +1,9 @@
 # ITMD-521
-ISHA TIDKE 
+ISHA TIDKE
+
 ![alt text](https://github.com/ishatidke/ITMD-521/blob/master/Images/Isha_New.jpg "Hi,I am Isha")
-What I love: 
+
+About me: 
 ![alt text](https://github.com/ishatidke/ITMD-521/blob/master/Images/Smile.jpg "Smile and keep smiling!!")
 ## I am Isha Tidke studing ITM - MIS at IIT Chicago 
 ## I am also working as Student assistant at Humanities and Social Services department
@@ -10,4 +12,4 @@ What I love:
 
 Git-It Badge
 
-![alt text](https://github.com/ishatidke/ITMD-521/blob/master/Images/Git_It__Badge.jpg "This is my Git-It Badge")
+![alt text](https://github.com/ishatidke/ITMD-521/blob/master/Images/Badge.jpg "This is my Git-It Badge")
