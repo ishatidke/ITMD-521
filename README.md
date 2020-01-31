@@ -10,4 +10,4 @@ What I love:
 
 Git-It Badge
 
-![alt text](C:\Users\istid\git\ITMD-521\Images\Git_It_Badge_IshaTidke.JPG "This is my Git-It badge ")
+![alt text](https://github.com/ishatidke/ITMD-521/blob/master/Images/Git_It__Badge_IshaTidke.jpg "This is my Git-It Badge")
