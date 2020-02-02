@@ -12,4 +12,4 @@ About me:
 
 Git-It Badge
 
-![alt text](https://github.com/ishatidke/ITMD-521/blob/master/Images/Badge.jpg "This is my Git-It Badge")
+![alt text](https://github.com/ishatidke/ITMD-521/blob/master/Images/Badge.JPG "This is my Git-It Badge")
